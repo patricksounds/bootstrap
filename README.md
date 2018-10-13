@@ -13,7 +13,7 @@
         <a href="https://youtube.com">
             <img src="images/youtube%20logo.jpg" height="50" width="50"></a>
         <a href="https://github.com">
-            <img src="images/github%20logo.dms" height="50 width="50></a>
+            <img src="bootstrap/github logo.dms" height="50 width="50></a>
     </div>
     </nav>
 <br>
