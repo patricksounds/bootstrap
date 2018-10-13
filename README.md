@@ -9,9 +9,9 @@
         <h1 class="navbar-brand">Learn Bootstrap Today!</h1>
     <div class="float-xs-right">
         <a href="https://twitter.com">
-            <img src="images/twitter%20logo.png" height="50" width="50"></a>
+            <img src="bootstrap/twitter logo.png" height="50" width="50"></a>
         <a href="https://youtube.com">
-            <img src="images/youtube%20logo.jpg" height="50" width="50"></a>
+            <img src="bootstrap/youtube logo.jpeg" height="50" width="50"></a>
         <a href="https://github.com">
             <img src="bootstrap/github logo.dms" height="50 width="50></a>
     </div>
